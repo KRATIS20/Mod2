@@ -8,7 +8,6 @@ body {
 
 h1 {
     text-align: center;
-    color: black;
 }
 
 section {
@@ -31,15 +30,15 @@ section>h2 {
     padding-top: 10px;
 }
 
-section.lebesgue>h2 {
+section.aa>h2 {
     background-color: #76b8db;
 }
 
-section.fubini>h2 {
+section.bb>h2 {
     background-color: #4f7acd;
 }
 
-section.luzin>h2 {
+section.cc>h2 {
     color: #e2e2e2;
     background-color: #10328a;
 }
